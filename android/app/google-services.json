@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411846421257",
+    "project_id": "sekul-bdc32",
+    "storage_bucket": "sekul-bdc32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411846421257:android:fe7f91675716a403db41d8",
+        "android_client_info": {
+          "package_name": "com.example.datasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVz0YwbZWen-jZbNxmJoR9f1PELvBex0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
